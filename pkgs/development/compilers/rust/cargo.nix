@@ -53,9 +53,6 @@ rustPlatform.buildRustPackage.override {
     [host]
     rustflags = "-C target-feature=-crt-static"
     linker = "${pkgsBuildHost.stdenv.cc}/bin/${pkgsBuildHost.stdenv.cc.targetPrefix}cc"
-    [unstable]
-    host-config = true
-    target-applies-to-host = true
     EOF
   '';
 
