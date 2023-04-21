@@ -3,9 +3,9 @@
     "clion": {
       "update-channel": "CLion RELEASE",
       "url-template": "https://download.jetbrains.com/cpp/CLion-{version}.tar.gz",
-      "version": "2023.1",
+      "version": "2023.1.1",
       "sha256": "4b7f431dec981601f4c4e217612f582ffd6c8aa53d03604f518eb1f35357ec6a",
-      "url": "https://download.jetbrains.com/cpp/CLion-2023.1.tar.gz",
+      "url": "https://download.jetbrains.com/cpp/CLion-2023.1.1.tar.gz",
       "build_number": "231.8109.174"
     },
     "datagrip": {
